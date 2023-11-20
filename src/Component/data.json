@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "product_name": "Moto G5",
+      "quantity": "2",
+      "price": "Rs 13000"
+    },
+    {
+      "id": 2,
+      "product_name": "racold geyser",
+      "quantity": "3",
+      "price": "Rs 6000"
+    },
+    {
+      "id": 3,
+      "product_name": "dell inspiron",
+      "quantity": "4",
+      "price": "Rs 50000"
+    },
+    {
+      "product_name": "Epson Printer",
+      "quantity": "1",
+      "price": "9500",
+      "id": 4
+    }
+  ]
+}
